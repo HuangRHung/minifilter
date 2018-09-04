@@ -1,0 +1,23 @@
+﻿  Building 'FsFilter5' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\FsFilter5.inf
+  Stamping [Version] section with DriverVer=09/04/2018,21.5.48.769
+C:\Users\User\Documents\Visual Studio 2017\Projects\FsFilter5\FsFilter5\FsFilter5.inf(73-73): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  FsFilter5.c
+  FsFilter5.vcxproj -> C:\Users\User\Documents\Visual Studio 2017\Projects\FsFilter5\Debug\FsFilter5.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\User\Documents\Visual Studio 2017\Projects\FsFilter5\Debug\FsFilter5.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\User\Documents\Visual Studio 2017\Projects\FsFilter5\Debug\FsFilter5\fsfilter5.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\User\Documents\Visual Studio 2017\Projects\FsFilter5\Debug\FsFilter5\fsfilter5.cat
+  
